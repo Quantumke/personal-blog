@@ -486,7 +486,9 @@ color: #FFF;
 width:20%;
 font-size: small;
 height: 190px;
-background: url(../img/footermap.png)
+background: url(../img/footermap.png);
+background-size: cover;
+background-repeat: no-repeat;
     
 }
 
