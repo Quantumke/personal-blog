@@ -19,10 +19,11 @@
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   cursor: pointer;
+  color: #89939E;
 }
 
 .fa:hover{
-   color: #E74C3C;
+   color: #50CDF9;
     
   -webkit-transform: translateZ(0);
   transform: translateZ(0);

@@ -371,3 +371,17 @@ nav a:hover {
         page-break-after: avoid;
     }
 }
+.header-custom {
+height: 30px;
+border-bottom: 1px #ccc solid;
+
+
+}
+.social-top-icons{
+    margin-left:220px;
+    width: 37.5%;
+    
+   	
+}
+  
+   
