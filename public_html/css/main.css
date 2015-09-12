@@ -379,9 +379,20 @@ border-bottom: 1px #ccc solid;
 }
 .social-top-icons{
     margin-left:220px;
-    width: 37.5%;
-    
+    width: 37.5%; 
    	
 }
   
    
+
+
+
+.header-custom-right {
+margin-left: 310px;
+}
+
+
+.email {
+font-size: 10px;
+color: #27C5F9;
+}
