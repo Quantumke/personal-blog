@@ -473,7 +473,26 @@ margin-bottom: 20px;
 width: 100%;
 margin-top: 40px;
 background: #272727;
-height: 70px;
+height: 200px;
     
     
+}
+
+.contact-info {
+    
+margin-left: 220px;
+float: left;
+color: #FFF;
+width:20%;
+font-size: small;
+height: 190px;
+background: url(../img/footermap.png)
+    
+}
+
+.dm {
+margin-left: 500px;
+color: #fff;
+height: 190px;
+margin-right: 220px;
 }
