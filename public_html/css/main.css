@@ -505,3 +505,13 @@ color: #FFF;
    
     
 }
+
+.hdr-admin {
+    background:  url(../img/header-admin.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 100px;
+       
+
+}
