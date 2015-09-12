@@ -491,8 +491,15 @@ background: url(../img/footermap.png)
 }
 
 .dm {
-margin-left: 500px;
-color: #fff;
+font-size: small;
 height: 190px;
+width:500px;
+float: right;
 margin-right: 220px;
+color: #FFF;
+}
+
+.footer-inputs {
+   
+    
 }
